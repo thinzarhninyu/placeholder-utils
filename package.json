@@ -1,6 +1,6 @@
 {
   "name": "placeholder-utils",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -13,8 +13,14 @@
     "url": "https://github.com/thinzarhninyu/placeholder-utils"
   },
   "license": "ISC",
-  "description": "A utility library for generating placeholder text",
+  "description": "A utility library for templates and placeholders",
   "devDependencies": {
     "typescript": "^5.4.5"
-  }
+  },
+  "keywords": [
+    "template",
+    "placeholder",
+    "utils",
+    "utility"
+  ]
 }
